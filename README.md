@@ -16,3 +16,4 @@ Reitero que la primera intención fue la de hacer funcionar la aplicación para 
 - Se firmó la aplicación
 
 A Activar tu chip Claro para Perú!!!
+Descarga: https://www.mediafire.com/file/g1mck6xx6p1d344/activa-tu-claro-peru-1-8-2-funcionando.apk/file
