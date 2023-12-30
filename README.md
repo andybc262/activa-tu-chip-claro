@@ -1,4 +1,4 @@
-# activa-tu-hip-claro
+# activa-tu-chip-claro
 Aporte voluntario, sin intenciones malversas; aplicación modificada de la empresa Claro Perú para poder activar el chip comprado en sus tiendas oficiales.
 
 
